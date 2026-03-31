@@ -147,7 +147,7 @@ author = { name = "Anastasia Charies", link = "https://github.com/Anastasia-Char
 
 [[courses]]
 name = "机器学习原理与经管应用"
-description ="""
+description = """
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-具体见下说明-gold)
 """
@@ -195,7 +195,7 @@ author = { name = "IcyDesert", link = "https://github.com/IcyDesert", date = "20
 
 [[courses]]
 name = "公司并购与估值"
-description ="""
+description = """
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
 ![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
