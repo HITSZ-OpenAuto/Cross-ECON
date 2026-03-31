@@ -124,7 +124,7 @@ author = [
   { name = "Anastasia Charies", link = "https://github.com/Anastasia-Charies", date = "2026-02" },
 ]
 
-[[coureses.sections]]
+[[courses.sections]]
 title = "学习建议"
 
 [[courses.sections.items]]
@@ -221,9 +221,6 @@ author = { name = "PVZ&X", link = "https://github.com/wpj9362", date = "2026-01"
 
 [[courses]]
 name = "绿色金融与碳排放权交易"
-
-[[courses.teachers]]
-name = "陈小蓓"
 description = """
 ![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
 ![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
@@ -231,6 +228,9 @@ description = """
 ![论文分析45%](https://img.shields.io/badge/论文分析-45%25-wheat)
 ![课堂汇报45%](https://img.shields.io/badge/课程汇报-45%25-wheat)
 """
+
+[[courses.teachers]]
+name = "陈小蓓"
 
 [[courses.sections]]
 title = "课程概况"
