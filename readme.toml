@@ -1,43 +1,31 @@
 course_name = "经管类跨专业课程"
 course_code = "Cross-ECON"
 repo_type = "multi-project"
-description = """
-本仓库包含经济管理学院开设的经管类的跨专业课程。
-"""
+description = "本仓库包含经济管理学院开设的经管类的跨专业课程。"
 
 [[courses]]
 name = "经济学原理"
-
-description = """
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-4-moccasin)
-![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![考勤10%](https://img.shields.io/badge/考勤-10%25-wheat)
-![作业15%](https://img.shields.io/badge/%E4%BD%9C%E4%B8%9A-15%25-wheat)
-![生活中的经济学15%](https://img.shields.io/badge/生活中的经济学-15%25-wheat)
-![期中考试30%](https://img.shields.io/badge/期中考试-30%25-wheat)
-![期末考试30%](https://img.shields.io/badge/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95-30%25-wheat)
-"""
 
 [[courses.teachers]]
 name = "周豫"
 
 [[courses.teachers.reviews]]
 content = """
-- 授课风格：
-    - 规格十分严格,如在上课开始后15分钟内不允许进入教室等等(他会直接中断上课开始骂人的).
-    - 课程群是微信群,同时老师设置为"不允许通过群聊添加好友",因此请假只能在课程群里公开发送申请.有时比较不近人情,一些特殊理由请假需要正式请假单,有些理由不被接受(如以"这门课和其它跨专业或文理通识等非专业课冲突"为理由而请假),但是正常的理由只需要在课程群里提供充足证据即可。
-- 听课建议：
-    - 课上会有“吹嘘一些自己以前的经历”的弊病，除此之外上课风格比较单调，老师的讲解没有形成对 PPT 的补充，听课对理解和记忆知识没什么帮助。
-    - 老师每次上课之前都会发即将讲解课程的 PPT，并且考试内容完全来自 PPT，记得及时保存否则微信文件会过期！
-    - 笔者认为老师人品还是很正的，只不过老师在某些问题上（例如按时上课不迟到）坚持自己固有的原则，因此比较像高中严厉一点但也不会无理由为难学生的老师。课程末期，或许是出于捞人的想法，老师甚至课前提前告知会有小测。
+授课风格：
+规格十分严格,如在上课开始后15分钟内不允许进入教室等等(他会直接中断上课开始骂人的).
+课程群是微信群,同时老师设置为"不允许通过群聊添加好友",因此请假只能在课程群里公开发送申请.有时比较不近人情,一些特殊理由请假需要正式请假单,有些理由不被接受(如以"这门课和其它跨专业或文理通识等非专业课冲突"为理由而请假),但是正常的理由只需要在课程群里提供充足证据即可。
+听课建议：
+课上会有“吹嘘一些自己以前的经历”的弊病，除此之外上课风格比较单调，老师的讲解没有形成对 PPT 的补充，听课对理解和记忆知识没什么帮助。
+老师每次上课之前都会发即将讲解课程的 PPT，并且考试内容完全来自 PPT，记得及时保存否则微信文件会过期！
+笔者认为老师人品还是很正的，只不过老师在某些问题上（例如按时上课不迟到）坚持自己固有的原则，因此比较像高中严厉一点但也不会无理由为难学生的老师。课程末期，或许是出于捞人的想法，老师甚至课前提前告知会有小测。
 """
 author = { name = "Anastasia Charies", link = "https://github.com/Anastasia-Charies", date = "2026-01" }
 
 [[courses.teachers.reviews]]
 content = """
-- 在学期内的 32 次课内，随机考勤 10 次（25 秋实际只考勤 8 次），每次考勤 2 分，不会提前通知。时刻在第一或二节课的开始或结束时，一次课不会有多次考勤。
-- 老师会给出一个最近讲过的知识点的简单问题，要求在纸上写出答案，5 分钟后他亲自一排一排的收。一旦检查到有代替他人考勤的行为，会收到检讨书要求和严肃批评。但是，只要提交的答题纸包含姓名学号即为有效，无论是否答出问题。
-- 一旦连续考勤到场三次后会自动获得一次“豁免”资格，下一次考勤未到场不会扣取分数，同时该次豁免资格失效。被批准的请假不会扣除考勤分。
+在学期内的 32 次课内，随机考勤 10 次（25 秋实际只考勤 8 次），每次考勤 2 分，不会提前通知。时刻在第一或二节课的开始或结束时，一次课不会有多次考勤。
+老师会给出一个最近讲过的知识点的简单问题，要求在纸上写出答案，5 分钟后他亲自一排一排的收。一旦检查到有代替他人考勤的行为，会收到检讨书要求和严肃批评。但是，只要提交的答题纸包含姓名学号即为有效，无论是否答出问题。
+一旦连续考勤到场三次后会自动获得一次“豁免”资格，下一次考勤未到场不会扣取分数，同时该次豁免资格失效。被批准的请假不会扣除考勤分。
 """
 author = { name = "Anastasia Charies", link = "https://github.com/Anastasia-Charies", date = "2026-01" }
 
@@ -147,10 +135,6 @@ author = { name = "Anastasia Charies", link = "https://github.com/Anastasia-Char
 
 [[courses]]
 name = "机器学习原理与经管应用"
-description = """
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
-![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-具体见下说明-gold)
-"""
 
 [[courses.teachers]]
 name = "吴璇"
@@ -168,13 +152,6 @@ author = { name = "Gaster", link = "https://github.com/WDGaster703", date = "202
 
 [[courses]]
 name = "会计学原理"
-description = """
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin)
-![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![雨课堂练习10%](https://img.shields.io/badge/雨课堂练习-10%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考-50%25-wheat)
-"""
 
 [[courses.teachers]]
 name = "王世璇"
@@ -195,12 +172,6 @@ author = { name = "IcyDesert", link = "https://github.com/IcyDesert", date = "20
 
 [[courses]]
 name = "公司并购与估值"
-description = """
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
-![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![作业40%](https://img.shields.io/badge/作业-40%25-wheat)
-![课堂汇报60%](https://img.shields.io/badge/课堂汇报-60%25-wheat)
-"""
 
 [[courses.teachers]]
 name = "李晶晶"
@@ -218,16 +189,8 @@ content = """
 """
 author = { name = "PVZ&X", link = "https://github.com/wpj9362", date = "2026-01" }
 
-
 [[courses]]
 name = "绿色金融与碳排放权交易"
-description = """
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-2-moccasin)
-![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![考勤10%](https://img.shields.io/badge/考勤-10%25-wheat)
-![论文分析45%](https://img.shields.io/badge/论文分析-45%25-wheat)
-![课堂汇报45%](https://img.shields.io/badge/课程汇报-45%25-wheat)
-"""
 
 [[courses.teachers]]
 name = "陈小蓓"
@@ -250,13 +213,6 @@ author = { name = "PVZ&X", link = "https://github.com/wpj9362", date = "2026-01"
 
 [[courses]]
 name = "基础计量经济学"
-description = """
-![学分](https://img.shields.io/badge/%E5%AD%A6%E5%88%86-3-moccasin)
-![成绩构成](https://img.shields.io/badge/%E6%88%90%E7%BB%A9%E6%9E%84%E6%88%90-gold)
-![平时作业40%](https://img.shields.io/badge/平时作业-40%25-wheat)
-![期末考试50%](https://img.shields.io/badge/期末考试-50%25-wheat)
-![课堂表现10%](https://img.shields.io/badge/课堂表现-10%25-wheat)
-"""
 
 [[courses.teachers]]
 name = "赵柘锦"
@@ -274,3 +230,21 @@ content = """
 考试方面，不考实验课涉及的部分，只考理论课的内容。不复习的话考试基本上是没法考的，但是老师的 ppt 又特别特别多，如果选了这门课的同学还是建议至少预留两三天时间复习期末考（虽然应该也不太容易挂科，毕竟考试只占百分之五十）。
 """
 author = { name = "fruly-ZERO", link = "https://github.com/fruly-ZERO", date = "2026-01" }
+
+[[courses]]
+name = "生活中的社会学"
+
+[[courses.teachers]]
+name = "叶士华"
+
+[[courses.sections]]
+title = "课程概况"
+
+[[courses.sections.items]]
+content = """
+叶老师的课必须给到夯，可以无脑选。同时也强烈建议对社会现象，心理探究等等人文方面感兴趣的同学选修这门课。\\
+考勤上不要求，学期初就会说明不要求考勤，但到了课程后期后传张纸写名字，老师说明是写了加分，奖励大家愿意来听课。\\
+无作业无考试，只有一个课程报告，报告要求是根据本学期的议题写一些自己的感悟，1500字左右。\\
+课程内容上，2026春季学期设置了一些有趣的社会议题，比如什么是现代社会，大学教育的阶级性，中国社会的乡土性，中国人的面子，现代人隐私问题的社会化，现代男女问题等等，贴近社会现实，既有趣也有深度。
+"""
+author = { name = "lumen", link = "https://github.com/lumen183", date = "2026-07" }
