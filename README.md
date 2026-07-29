@@ -54,17 +54,17 @@
     <th colspan="2">9:40及之前提交</th>
   </tr>
   <tr>
-    <td rowspan="2" style="text-align:center;">0</td>
-    <td style="text-align:center;">到场</td>
-    <td style="text-align:center;">未到场</td>
-    <td style="text-align:center;">到场</td>
-    <td style="text-align:center;">未到场</td>
+    <td rowspan="2" align="center">0</td>
+    <td align="center">到场</td>
+    <td align="center">未到场</td>
+    <td align="center">到场</td>
+    <td align="center">未到场</td>
   </tr>
   <tr>
-    <td style="text-align:center;">≤4</td>
-    <td style="text-align:center;">≤2</td>
-    <td style="text-align:center;">≤5</td>
-    <td style="text-align:center;">≤3</td>
+    <td align="center">≤4</td>
+    <td align="center">≤2</td>
+    <td align="center">≤5</td>
+    <td align="center">≤3</td>
   </tr>
 </table>
 
